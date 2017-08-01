@@ -1,0 +1,14 @@
+<resources>
+
+    <!--应用名称-->
+    <string name="app_name">换呗</string>
+
+    <!--弹窗信息-->
+    <string name="exchange_complete_title">请确认</string>
+    <string name="exchange_complete_msg">评价已完成，系统奖励5点积分</string>
+    <string name="dialog_positive_btn_msg">确定</string>
+    <string name="dialog_navigation_btn_msg">取消</string>
+    <string name="check_dialog_title">请注意</string>
+    <string name="check_dialog_msg">订单已提交，正等待对方确认中...</string>
+
+</resources>

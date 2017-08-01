@@ -1,0 +1,60 @@
+{
+  "users" : [
+    {
+      "via": "../src/img/via1.jpg",
+      "username": "墨裳花开",
+      "dis": "1000",
+      "time": "12",
+      "img": "../src/img/img1.png",
+      "describe": "今年大四毕业了，电脑不准备带走了，想换一个ipone6s，电脑用的很爱惜，平时就用它玩玩LOL,电脑配置：外星人ALW17C-R2738，系统：Windows10，屏幕尺寸：17.3英寸，处理器：Intel i7标准电压版，显卡型号：GTX1060，硬盘容量：256G+1T，显存容量：6G，待机时长：5-7小时，内存容量：16G。"
+    },
+    {
+      "via": "../src/img/via2.jpg",
+      "username": "helloworld",
+      "dis": "2000",
+      "time": "20",
+      "img": "../src/img/img4.jpg",
+      "describe": "因为买了新手机，旧手机闲置，iphoneSE，九成新，无损坏，操作流畅，系统是IOS10.3，想换一个kindle，需要的随时与我联系。"
+    },
+    {
+      "via": "../src/img/via6.jpg",
+      "username": "香洲区第一吕布",
+      "dis": "3500",
+      "time": "1",
+      "img": "../src/img/img3.jpg",
+      "describe": "手工制作的各种小木偶，样子清新可爱，造型奇特，天然木制，你值得拥有。"
+    },
+    {
+      "via": "../src/img/via5.jpg",
+      "username": "你们的女神学姐",
+      "dis": "1200",
+      "time": "76",
+      "img": "../src/img/img2.jpg",
+      "describe": "学姐今年大四毕业，有一件八成新的被子需要处理，只用过半年，纯棉纯手工制作，晚上睡觉盖着非常舒服，想要的立即与我联系。"
+    },
+    {
+      "via": "../src/img/via1.jpg",
+      "username": "汝嫣",
+      "dis": "500",
+      "time": "32",
+      "img": "../src/img/img5.jpg",
+      "describe": "高帮沙地运动鞋，只穿过一回，巴黎百货买的，原价1000多元，"
+    },
+    {
+      "via": "../src/img/via2.jpg",
+      "username": "离枯大师",
+      "dis": "800",
+      "time": "25",
+      "img": "../src/img/img6.jpg",
+      "describe": "真皮背包，刚买了两个多月，因为同类的背包太多了，所以想换一个红色的包包，"
+    },
+    {
+      "via": "../src/img/via3.jpg",
+      "username": "单雨童",
+      "dis": "759",
+      "time": "42",
+      "img": "../src/img/img7.jpg",
+      "describe": "沙发九成新，保存特别好，因为要搬家，现在想还。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+body { background: #f0f0f0;}
+a { -webkit-tap-highlight-color: transparent; /* 去掉点击时候的阴影 */}
+a,a:hover,a:link,a:active,a:visited{ text-decoration:none; color: #000;}
+
+#header { position: fixed; left: 0; top: 0; height: 50px; background: #f27e13; width: 360px; text-align: center; z-index: 20;}
+#header a { position: relative; top: 10px; display: inline-block; float: left; width: 32px; height: 32px; background: url("../img/back.png");}
+#header h1 { float: left; height: 50px; width: 300px; line-height: 50px; font-size: 16px; font-weight: bold; color: #fff;}
+
+#process { height: 80px; width: 360px; background: #fff; margin-top: 50px;}
+#process ul li { float: left; position: relative; width: 90px; text-align: center; height: 80px; line-height: 120px;}
+#process ul li span { position: absolute; top: 10px; left: 25px; width: 30px; display: inline-block; height: 30px; line-height: 30px; border: 1px solid #ccc; border-radius: 50%; }
+#process ul li:nth-of-type(4) span { position: absolute; top: 10px; left: 25px; width: 30px; display: inline-block; height: 30px; line-height: 30px; border: 1px solid #ccc; border-radius: 50%; color: #fff; background: #f27e13;}
+
+#content .assess { width: 360px; height: 200px; margin-top: 10px; background: #fff; color: #cccccc; font-size: 14px; box-sizing: border-box; padding: 10px; border: none;}
+#content p { width: 360px; height: 50px; text-align: center; line-height: 50px; font-size: 14px; font-weight: bold;}
+#content button { width: 150px; height: 50px; background: #fff; border: none; }
+#content .btn1 { margin: 0 10px 0 25px;}
+
+.tips { width: 360px; height: 50px; line-height: 50px; margin-top: 100px; text-align: center; color: #ccc; font-size: 14px; font-weight: bold;}
+
+#bottom { position: fixed; bottom: 0; left: 0; width: 360px; height: 50px; border: none; background: #fff;}
+#bottom a { display: inline-block; width: 300px; height: 40px; line-height: 40px; background: #f27e13; border: none; margin: 5px 30px; font-size: 14px; text-align: center;}
+

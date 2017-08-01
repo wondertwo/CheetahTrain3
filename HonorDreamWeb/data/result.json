@@ -1,0 +1,36 @@
+{
+  "users" : [
+    {
+      "via": "../src/img/via1.jpg",
+      "username": "墨裳花开",
+      "dis": "1000",
+      "time": "12",
+      "img": "../src/img/img1.png",
+      "describe": "今年大四毕业了，外星人电脑不准备带走了，想换一个ipone6s，电脑用的很爱惜，平时就用它玩玩LOL,电脑配置：外星人ALW17C-R2738，系统：Windows10，屏幕尺寸：17.3英寸，处理器：Intel i7标准电压版，显卡型号：GTX1060，硬盘容量：256G+1T，显存容量：6G，待机时长：5-7小时，内存容量：16G。"
+    },
+    {
+      "via": "../src/img/via2.jpg",
+      "username": "helloworld",
+      "dis": "2000",
+      "time": "20",
+      "img": "../src/img/img8.jpg",
+      "describe": "今年大四毕业了，联想电脑不准备带走了，想换一个ipone6s，电脑用的很爱惜，平时就用它玩玩LOL,电脑配置：外星人ALW17C-R2738，系统：Windows10，屏幕尺寸：17.3英寸，处理器：Intel i7标准电压版，显卡型号：GTX1060，硬盘容量：256G+1T，显存容量：6G，待机时长：5-7小时，内存容量：16G。"
+    },
+    {
+      "via": "../src/img/via6.jpg",
+      "username": "香洲区第一吕布",
+      "dis": "3500",
+      "time": "1",
+      "img": "../src/img/img9.jpg",
+      "describe": "今年大四毕业了，戴尔电脑不准备带走了，想换一个ipone6s，电脑用的很爱惜，平时就用它玩玩LOL,电脑配置：外星人ALW17C-R2738，系统：Windows10，屏幕尺寸：17.3英寸，处理器：Intel i7标准电压版，显卡型号：GTX1060，硬盘容量：256G+1T，显存容量：6G，待机时长：5-7小时，内存容量：16G。"
+    },
+    {
+      "via": "../src/img/via2.jpg",
+      "username": "helloworld",
+      "dis": "2000",
+      "time": "20",
+      "img": "../src/img/img8.jpg",
+      "describe": "今年大四毕业了，联想电脑不准备带走了，想换一个ipone6s，电脑用的很爱惜，平时就用它玩玩LOL,电脑配置：外星人ALW17C-R2738，系统：Windows10，屏幕尺寸：17.3英寸，处理器：Intel i7标准电压版，显卡型号：GTX1060，硬盘容量：256G+1T，显存容量：6G，待机时长：5-7小时，内存容量：16G。"
+    }
+  ]
+}

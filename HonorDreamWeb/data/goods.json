@@ -1,0 +1,24 @@
+{
+  "goods" : [
+    {
+      "title": "iphone6s 土豪金，七成新，用的比较爱惜，屏幕完好",
+      "img": "../src/img/iphone.jpg",
+      "new-old": 7
+    },
+    {
+      "title": "家用哑铃，家用锻炼利器，20KG，九成新",
+      "img": "../src/img/dumbbell.jpg",
+      "new-old": 9
+    },
+    {
+      "title": "神舟战神，机器运行良好，用的很爱惜，市面上所有游戏运行棒棒哒！",
+      "img": "../src/img/hasee.jpg",
+      "new-old": 8
+    },
+    {
+      "title": "kindle，九成新，里面已经有2000本付费电子书，涉及方方面面的内容",
+      "img": "../src/img/kindle.jpg",
+      "new-old": 9
+    }
+  ]
+}

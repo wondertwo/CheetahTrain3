@@ -1,0 +1,21 @@
+body { background: #f0f0f0;}
+a { -webkit-tap-highlight-color: transparent; /* 去掉点击时候的阴影 */}
+a,a:hover,a:link,a:active,a:visited{ text-decoration:none; color: #000;}
+
+#header { background: #f0f0f0; height: 200px; width: 360px;}
+#header img { width: 60px; height: 60px; border-radius: 50%; margin: 20px 150px;}
+#header p { width: 360px; text-align: center; font-size: 16px; height: 30px; line-height: 30px;}
+#header span { display: inline-block; position: relative; width: 360px; text-align: center;}
+#header span:before { content: url("../img/icon.png"); position: absolute; top: 0; left: 135px;}
+
+#header .credit { width: 360px; background: #fff; height: 40px; line-height: 40px; margin-top: 10px; text-align: center; font-size: 14px;}
+
+#content { margin-top: 10px;}
+#content ul li { width: 360px; height: 280px; background: #fff; box-sizing: border-box; padding: 10px 0 0 10px; margin-bottom: 10px;}
+#content ul li .show-goods img { width: 80px; height: 80px; margin-right: 10px;}
+#content ul li p:nth-of-type(1) { position: relative; width: 300px; box-sizing: border-box; padding-left: 35px; overflow: hidden; text-overflow:ellipsis; white-space: nowrap; font-size: 14px; height: 25px; line-height: 25px;}
+#content ul li p:nth-of-type(1):before { position: absolute; top: 6px; left: 0; content: '9新'; display: inline-block; width: 28px; height: 13px; border-radius: 5px; font-size: 12px; text-align: center; line-height: 13px; background: #f27e13; color: #fff; }
+#content ul li p:nth-of-type(2) { width: 340px; border-top: 1px solid #f0f0f0; box-sizing: border-box; padding-top: 5px;}
+#content ul li .btn { margin-top: 20px;}
+#content ul li .btn button { width: 100px; height: 30px; background: #ccc; border: none; outline: none;}
+#content ul li .btn button:nth-of-type(1) { margin-left: 120px; margin-right: 10px;}

@@ -1,0 +1,90 @@
+body {
+    background: #f0f0f0;
+    color: #000;
+    font-size: 14px;
+}
+/*
+    信息流：物品展示
+*/
+
+.panel {
+    /*outline: 1px solid #ccc;*/
+    /*width: 375px;*/
+    width: 360px;
+}
+.panel .list li {
+    height: 195px;
+    background: #fff;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-bottom: 10px;
+    /*box-shadow:2px 2px 5px #808080;*/
+    /*border-bottom: 1px dashed #f27e13;*/
+}
+/*.panel .list li:nth-of-type(1) {*/
+    /*margin-top: 10px;*/
+/*}*/
+.panel #user-info {
+    width: 345px;
+    margin-left: 10px;
+}
+.panel #user-info img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+}
+.panel #user-info div {
+    float: left;
+    width: 285px;
+    height: 50px;
+}
+.panel #user-info div span:nth-of-type(1) {
+    display: inline-block;
+    width: 280px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.panel #user-info div .distance {
+    position: relative;
+    box-sizing: border-box;
+    padding-left: 20px;
+    margin-right: 5px;
+}
+.panel #user-info div .distance:after {
+    content: url("../img/icon.png");
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 2px;
+    left: 0;
+}
+.panel #user-info div .duration {
+    position: relative;
+    box-sizing: border-box;
+    padding-left: 20px;
+}
+.panel #user-info div .duration:after {
+    content: url("../img/icon1.png");
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+}
+.panel #goods-describe {
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+    margin-left: 5px;
+}
+.panel #goods-show {
+    margin-top: 10px;
+}
+.panel #goods-show img {
+    width: 90px;
+    height: 90px;
+    margin-left: 15px;
+}
